@@ -14,13 +14,16 @@ USAGE:
 Setting Today's Special:
 ------------------------------------------------------------------
 menu.meal = 'Tiramsu'; // Sets the meal to 'Tiramisu'
+
 menu.price = 6;       // Sets the price to 6
 ------------------------------------------------------------------
 
 
 Getting Today's Special
 -----------------------------------------------------------------------------------------
-console.log(menu.todaysSpecial); // Outputs: Today's Special is Tiramisu for $6!
+console.log(menu.todaysSpecial); 
+
+// Outputs: Today's Special is Tiramisu for $6!
 -----------------------------------------------------------------------------------------
 
 This project ensures that the restaurant can confidently update and display "Today's Special" each day, enhancing the website's functionality and reliability.
