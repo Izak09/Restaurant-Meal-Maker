@@ -11,7 +11,7 @@ DYNAMIC UPDATES: Displays the current special dynamically using a getter method.
 
 USAGE:
 
-Setting Todays Special:
+Setting Today's Special:
 ------------------------------------------------------------------
 menu.meal = 'Tiramsu'; // Sets the meal to 'Tiramisu'
 menu.price = 6;       // Sets the price to 6
