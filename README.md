@@ -5,8 +5,11 @@ This project involves creating a JavaScript function for a restaurant's website 
 Features:
 
 SET MEAL AND PRICE: Allows the restaurant to set a special meal and its price for the day.
+
 VALIDATION: Ensures that the meal is a string and the price is a number, avoiding invalid or incorrect entries.
+
 USER-FRIENDLY: Provides clear feedback if the input values are not acceptable, maintaining the integrity of the displayed special.
+
 DYNAMIC UPDATES: Displays the current special dynamically using a getter method.
 
 USAGE:
